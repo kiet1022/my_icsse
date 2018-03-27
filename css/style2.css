@@ -1,0 +1,53 @@
+
+.carousel-inner img {
+      width: 1100px;
+      height: 500px;
+  }
+ .slidebar{
+	margin-top: 5px;
+ }
+
+.noidung2{
+	padding: 0;
+	border: 1px solid grey;
+}
+.menu{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.menu a{
+	font-family: serif;
+}
+.vien{
+	height: 50px;
+	padding-top: 15px;
+    padding-left: 15px;
+}
+.inside{
+	border-bottom: 1px solid red;
+}
+.side ul li{
+	list-style-type: none;
+	border-bottom: 1px dotted red;
+}
+.side ul li p{
+	color: red; 
+	font-size: 15px;
+}
+.side ul li a{
+	text-decoration: none; 
+	font-size: 13px;
+	text-align: justify;
+}
+.footer{
+	margin-top: 15px;
+	height: 150px;
+	background-color:#2980B9;
+	padding-top: 20px;
+}
+.footer p{
+	margin-bottom: 0px;
+	color: yellow;
+	font-size: 15px;
+	font-family: serif;
+}
